@@ -16,6 +16,12 @@ You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 
 [Email](mailto:yubinzhoubme@outlook.com)/ [Github](https://github.com/troychowzyb)/ [wechat](../images/wechat.png)
 
+Interest
+======
+·Brain-Computer Interface  
+·FUS-based neuromodulation  
+·Cognitive Neuroscience  
+·Modern Synthetic Theory of Evolution (It's my amateur interest)
 
 Education
 ======
