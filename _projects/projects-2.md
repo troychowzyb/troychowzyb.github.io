@@ -4,4 +4,4 @@ excerpt: "Entry for 8th National Biomedical Engineering Innovation Design Compet
 collection: projects
 ---
 
-Entry for $8^{th}$ National Biomedical Engineering Innovation Design Competition for College Students. Calculated brain functional network features, heart rate variability features and heart-brain coupling features to build machine learning models for automatic diagnosis; Deep learning models using ResNet were built based on original EEG and ECG also. This work won the second prize in the finals.
+Entry for 8th National Biomedical Engineering Innovation Design Competition for College Students. Calculated brain functional network features, heart rate variability features and heart-brain coupling features to build machine learning models for automatic diagnosis; Deep learning models using ResNet were built based on original EEG and ECG also. This work won the second prize in the finals.
