@@ -1,7 +1,7 @@
 ---
-title: "Automatic spine segmentation based on an UNet combining 2D and 3D modules"
-excerpt: "Course design for Prof. Kai Wu's course Medical Image Processing. Using an UNet combining 2D and 3D modules to segment 3D MRI spine images. This design received a score of 98/100.<br>[PDF](../files/MIPCourseDesign.pdf)/[GitHub](https://github.com/troychowzyb/mip_scut_course_design)<br>[<img src='/images/spinesegment_small.png'>](../images/spinesegment.png)"
+title: "Design of auxiliary diagnosis algorithm for schizophrenia based on feature fusion of EEG and ECG"
+excerpt: "Entry for $8^{th}$ National Biomedical Engineering Innovation Design Competition for College Students. Calculated brain functional network features, heart rate variability features and heart-brain coupling features to build machine learning models for automatic diagnosis. This work won the second prize in the finals.<br>[PDF](../files/BCICIV_report.pdf)/[PPT](../files/B030079.pdf)<br>[<img src='/images/spinesegment_small.png'>](../images/spinesegment.png)"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Entry for $8^{th}$ National Biomedical Engineering Innovation Design Competition for College Students. Calculated brain functional network features, heart rate variability features and heart-brain coupling features to build machine learning models for automatic diagnosis; Deep learning models using ResNet were built based on original EEG and ECG also. This work won the second prize in the finals.
