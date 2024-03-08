@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Automatic spine segmentation based on an UNet combining 2D and 3D modules"
+excerpt: "Course design for Prof. Kai Wu's course "Medical Image Processing". Using an UNet combining 2D and 3D modules to segment 3D MRI spine images. This design received a score of 98/100.<br/>[PDF]()<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
