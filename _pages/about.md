@@ -12,7 +12,7 @@ I'm a third year undereraduate student from [School of Biomedical Sciences and E
 I am very fortunate to be advised by [Prof. Kai Wu](https://www.scholat.com/wukai) of [SCUT MINI(Medical Information and Neuroimaging) Lab](https://www.scholat.com/wukai).
 You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 
-[Email](mailto:yubinzhoubme@outlook.com)/ [Github](https://github.com/troychowzyb)/ [wechat](../image/wechat.jpg)
+[Email](mailto:yubinzhoubme@outlook.com)/ [Github](https://github.com/troychowzyb)/ [wechat](../image/wechat.png)
 
 
 A data-driven personal website
