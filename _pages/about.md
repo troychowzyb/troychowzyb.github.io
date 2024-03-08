@@ -19,5 +19,6 @@ You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 
 Education
 ======
-Undergraduate in Biomedical Engineering, 2021.09 - 2025.06  
+Undergraduate in Biomedical Engineering,  
+2021.09 - 2025.06,  
 South China University of Technology
