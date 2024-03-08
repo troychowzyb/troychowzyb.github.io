@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a third year undereraduate student from [School of Biomedical Sciences and Engineering](https://www2.scut.edu.cn/bmse/), [South China University of Technology](https://www.scut.edu.cn/), my reseanch interest includes brain-computer interface, neuromodulation and cognitive neuroscience.
+I am very fortunate to be advised by [Prof. Kai Wu](https://www.scholat.com/wukai) of [SCUT MINI(Medical Information and Neuroimaging) Lab](https://www.scholat.com/wukai).
+You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
+[Email](mailto:yubinzhoubme@outlook.com)/ [Github](https://github.com/troychowzyb)/ [wechat](../image/wechat.jpg)
+
 
 A data-driven personal website
 ======
