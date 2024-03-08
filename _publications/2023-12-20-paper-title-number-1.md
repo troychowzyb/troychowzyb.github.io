@@ -2,7 +2,7 @@
 title: "Discriminative analysis of schizophrenia patients using an integrated model combining 3D CNN with 2D CNN: A multimodal MR image and connectomics analysis"
 collection: publications
 permalink: /publication/2023-12-20-paper-title-number-1
-excerpt: 'Propose a novel method for multi-dimensional mining of fMRI image information using an integrated model, which is proposed for the discriminative analysis of schizophrenia patients. This method uses 2D FC matrices based on gray matter maps and 3D T1 images as the input of the neural network, allowing the model to simultaneously extract spatial topology information and brain functional connection information. Experiments have shown that our method achieved better performance beyond state-of-the-art methods.'
+excerpt: 'Propose a novel method for multi-dimensional mining of fMRI image information using an integrated model, uses 2D FC matrices based on gray matter maps and 3D T1 images as the input of the neural network, to do the discriminative analysis of schizophrenia patients.  Experiments have shown that our method achieved better performance beyond state-of-the-art methods.'
 date: 2023-12-20
 venue: 'Brain Research Bulletin'
 paperurl: 'https://doi.org/10.1016/j.brainresbull.2023.110846'
