@@ -24,7 +24,13 @@ Interest
 · Modern Synthetic Theory of Evolution (It's my amateur interest)
 
 Education
+====== 
+2021.09 - 2025.06, Undergraduate in Biomedical Engineering, South China University of Technology
+
+Honors and Awards
 ======
-Undergraduate in Biomedical Engineering,  
-2021.09 - 2025.06,  
-South China University of Technology
+{\textit{Meritorious Winner}, Interdisciplinary Contest In Modeling  (6\%)}{May. 2022}
+{\textit{$2^{nd}$ prize}, National Biomedical Engineering lnnovation Design Competition for College Students}{Jul. 2023}
+{\textit{$2^{nd}$ prize}, Hongpingchangqing Fund  (2k CNY for 3 team members)}{Sep. 2023}
+{\textit{$3^{rd}$ prize}, University Scholarship  (1.5k CNY)}{Oct. 2023}
+{\textit{$3^{rd}$ prize}, Zhuoyue Scholarship  (10k CNY)}{Nov. 2023}
