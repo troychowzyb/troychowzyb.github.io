@@ -47,4 +47,4 @@ I have been fortunate to work with many talented and dedicated individuals who h
 - [Xinjie Shen](https://xinjie-shen.com/), who provided me with support in ai technology and mental support @Dartmouth College
 - [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with support in ai technology and mental support @Technical University of Munich
 - Adis and all colleagues in @BrainCo Inc.
-- My family, who is in my side all along
+- My family, who are in my side all along
