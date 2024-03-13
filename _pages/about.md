@@ -29,11 +29,11 @@ Education
 
 Honors and Awards
 ======
-*2022.05* **Meritorious Winner**, Interdisciplinary Contest In Modeling  (6\%)  
-*2023.07* **2nd prize**, National Biomedical Engineering lnnovation Design Competition for College Students   
-*2023.09* **2nd prize**, Hongpingchangqing Fund  (2k CNY for 3 team members)   
-*2023.10* **3rd prize**, University Scholarship  (1.5k CNY)   
-*2023.11* **3rd prize**, Zhuoyue Scholarship  (10k CNY) 
+*2022.05*, **Meritorious Winner**, Interdisciplinary Contest In Modeling  (6\%)  
+*2023.07*, **2nd prize**, National Biomedical Engineering lnnovation Design Competition for College Students   
+*2023.09*, **2nd prize**, Hongpingchangqing Fund  (2k CNY for 3 team members)   
+*2023.10*, **3rd prize**, University Scholarship  (1.5k CNY)   
+*2023.11*, **3rd prize**, Zhuoyue Scholarship  (10k CNY) 
 
 News
 ====== 
