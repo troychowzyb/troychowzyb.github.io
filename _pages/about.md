@@ -26,6 +26,7 @@ Interest
 Education
 ====== 
 *2021.09 - 2025.06*, **Undergraduate in Biomedical Engineering**, South China University of Technology
+*2018.09 - 2021.06*, **High school student**, Nanshan Affiliated school of Beijing Normal University
 
 Honors and Awards
 ======
