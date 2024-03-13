@@ -29,8 +29,8 @@ Education
 
 Honors and Awards
 ======
-*2022.5* &ensp **Meritorious Winner**, Interdisciplinary Contest In Modeling  (6\%)  
-*2023.7* &ensp **2nd prize**, National Biomedical Engineering lnnovation Design Competition for College Students   
-*2023.9* &ensp **2nd prize**, Hongpingchangqing Fund  (2k CNY for 3 team members)   
+*2022.5* **Meritorious Winner**, Interdisciplinary Contest In Modeling  (6\%)  
+*2023.7* **2nd prize**, National Biomedical Engineering lnnovation Design Competition for College Students   
+*2023.9* **2nd prize**, Hongpingchangqing Fund  (2k CNY for 3 team members)   
 *2023.10* **3rd prize**, University Scholarship  (1.5k CNY)   
 *2023.11* **3rd prize**, Zhuoyue Scholarship  (10k CNY) 
