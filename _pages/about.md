@@ -44,7 +44,8 @@ Acknowledgment
 I have been fortunate to work with many talented and dedicated individuals who have generously shared their time and expertise with me. I am grateful for their support and encouragement.
 
 - [Prof. Kai Wu](https://www.scholat.com/wukai) and all member in [MINI Lab](https://www.scholat.com/wukai), [Haoquan Zhang](https://haoquanzhang.github.io/), Kaiwen Li, my roommates in 402, who support me in every aspect @South China University of Technology
-- [Xinjie Shen](https://xinjie-shen.com/), who provided me with support in ai technology and mental support @Dartmouth College
-- [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with support in ai technology and mental support @Technical University of Munich
+- [Xinjie Shen](https://xinjie-shen.com/), who provided me with ai technology and mental support @Dartmouth College
+- [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with ai technology and mental support @Technical University of Munich
+- [Xinqiang Wu](https://ys.mihoyo.com/), who provided me with support in math and mental support @Xiamen University
 - Adis and all colleagues in @BrainCo Inc.
 - My family, who are in my side all along
