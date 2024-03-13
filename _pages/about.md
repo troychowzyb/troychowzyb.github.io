@@ -18,10 +18,10 @@ You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 
 Interest
 ======
-**·** Brain-Computer Interface  
-**·** FUS-based neuromodulation  
-**·** Cognitive Neuroscience  
-**·** Modern Synthetic Theory of Evolution (It's my amateur interest)
+- Brain-Computer Interface  
+- FUS-based neuromodulation  
+- Cognitive Neuroscience  
+- Modern Synthetic Theory of Evolution (It's my amateur interest)
 
 Education
 ====== 
