@@ -18,10 +18,10 @@ You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 
 Interest
 ======
-· Brain-Computer Interface  
-· FUS-based neuromodulation  
-· Cognitive Neuroscience  
-· Modern Synthetic Theory of Evolution (It's my amateur interest)
+**·** Brain-Computer Interface  
+**·** FUS-based neuromodulation  
+**·** Cognitive Neuroscience  
+**·** Modern Synthetic Theory of Evolution (It's my amateur interest)
 
 Education
 ====== 
@@ -38,3 +38,7 @@ Honors and Awards
 News
 ====== 
 *2024.01.16*, I became an intern of BrainCo(Shenzhen) Inc.!
+
+Acknowledgment
+====== 
+I have been fortunate to work with many talented and dedicated individuals who have generously shared their time and expertise with me. I am grateful for their support and encouragement.
