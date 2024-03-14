@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Yubin Zhou's academic personal websites"
+title: "Yubin Zhou's personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+  
 
 About me
 ======
