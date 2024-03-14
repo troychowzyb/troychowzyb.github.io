@@ -45,7 +45,7 @@ News
 Internships and Research Experience
 ====== 
 *2022.03 - 2024.01*, **Undergraduate Research**, Medical artificial intelligence in automatic diagnosis of stroke, depression and schizophrenia. Supervisor: [Prof. Kai Wu](https://www.scholat.com/wukai), [South China University of Technology](https://www.scut.edu.cn/)  
-*2024.01 - now*, **Algorithm Intern**, Early research and development on medical ultrasound device. Supervisor: Adis, [BrainCo Inc.](https://www.brainco.cn/)
+*2024.01 - now*, **Algorithm Intern**, Early research and development on medical ultrasound device. Supervisor: [Adis](https://www.linkedin.com/in/adisi/), [BrainCo Inc.](https://www.brainco.cn/)
 
 Acknowledgment
 ====== 
@@ -55,5 +55,5 @@ I have been fortunate to work with many talented and dedicated individuals who h
 - [Xinjie Shen](https://xinjie-shen.com/), who provided me with ai technology and mental support @Dartmouth College
 - [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with ai technology and mental support @Technical University of Munich
 - [Xinqiang Wu](https://genshin.hoyoverse.com/), who provided me with support in math and mental support @Xiamen University
-- Adis and all colleagues in @BrainCo Inc.
+- [Adis](https://www.linkedin.com/in/adisi/) and all colleagues in @BrainCo Inc.
 - My family, who are in my side all along
