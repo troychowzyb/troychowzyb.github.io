@@ -42,6 +42,11 @@ News
 ====== 
 *2024.01.16*, I became an intern of BrainCo(Shenzhen) Inc.!
 
+Internships and Research Experience
+====== 
+*2022.03 - 2024.01*, **Undergraduate Research**, research on biomedical signal processing, medical artificial intelligence in automatic diagnosis of stroke, depression and schizophrenia. Supervisor: [Prof. Kai Wu](https://www.scholat.com/wukai), [South China University of Technology](https://www.scut.edu.cn/) 
+*2024.01 - now*, **Algorithm Intern**, assist on early research and development on medical ultrasound device. Supervisor: Adis, [BrainCo Inc.](https://www.brainco.cn/)
+
 Acknowledgment
 ====== 
 I have been fortunate to work with many talented and dedicated individuals who have generously shared their time and expertise with me. I am grateful for their support and encouragement.
