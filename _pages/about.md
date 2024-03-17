@@ -22,7 +22,7 @@ You can find my CV here: [Yubin Zhou's CV](../files/YubinZhou_CV.pdf).
 Interest
 ======
 - Brain-Computer Interface  
-- FUS-based neuromodulation  
+- Artificial Sensory Encoding  
 - Cognitive Neuroscience  
 - Modern Synthetic Theory of Evolution (It's my amateur interest)
 
@@ -57,4 +57,5 @@ I have been fortunate to work with many talented and dedicated individuals who h
 - [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with ai technology and mental support @Technical University of Munich
 - [Xinqiang Wu](https://genshin.hoyoverse.com/), who provided me with math and mental support @Xiamen University
 - [Adis](https://www.linkedin.com/in/adisi/) and all colleagues in @BrainCo Inc.
+- Qiming anime club, who always bring me joy and mental support
 - My family, who are in my side all along
