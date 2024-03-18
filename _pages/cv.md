@@ -9,11 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Yubin Zhou
+======
+Undergraduate student, School of Biomedical Sciences and Engineering, South China University of Technology, Guangzhou, China
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+- South China University of Technology, Guangzhou, China, Bachelor of Biomdical Engineering
+2021.09—present
+Cumulative GPA: 3.51/4.00
+
+Academic experience
+======
 
 Work experience
 ======
@@ -47,18 +56,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+
+Scholarships
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+References
 ======
 * Currently signed in to 43 different slack teams
