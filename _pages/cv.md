@@ -11,8 +11,7 @@ redirect_from:
 
 Yubin Zhou
 ======
-*Undergraduate student*, School of Biomedical Sciences and Engineering,   
-South China University of Technology, Guangzhou, China
+*Undergraduate student*, School of Biomedical Sciences and Engineering, South China University of Technology, Guangzhou, China
 
 
 Education
