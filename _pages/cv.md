@@ -17,8 +17,8 @@ Yubin Zhou
 Education
 ======
 
-- South China University of Technology, Guangzhou, China, Bachelor of Biomdical Engineering
-2021.09—present
+- South China University of Technology, Guangzhou, China  
+Bachelor of Biomdical Engineering, 2021.09—present  
 Cumulative GPA: 3.51/4.00
 
 Academic experience
