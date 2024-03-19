@@ -23,6 +23,10 @@ Cumulative GPA: 3.51/4.00
 
 Academic experience
 ======
+* 2022.03 - 2024.01: Undergraduate Research
+  * South China University of Technology
+  * Duties includes: Study and assist graduate students with subject recruitment and data collection, organization and processing of EEG, EMG, fNIRS, etc.
+  * Supervisor: [Prof. Kai Wu](https://www.scholat.com/wukai)
 
 Work experience
 ======
