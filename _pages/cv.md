@@ -17,9 +17,9 @@ Yubin Zhou
 Education
 ======
 
-- South China University of Technology, Guangzhou, China  
-Bachelor of Biomdical Engineering, 2021.09—present  
-Cumulative GPA: 3.51/4.00
+* South China University of Technology, Guangzhou, China  
+  * Bachelor of Biomdical Engineering, 2021.09—present  
+  * Cumulative GPA: 3.51/4.00
 
 Academic experience
 ======
@@ -30,36 +30,29 @@ Academic experience
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Algorithm Intern & Research Assistant
+  * BrainCo Inc.
+  * Duties includes: Early research and development on medical ultrasound device
+  * Supervisor: [Adis](https://www.linkedin.com/business-manager-api/bzmEnterpriseAccessCookie/in/adisi/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (Mainly used), MATLAB.
+* EEG processing: MNE (Mainly used), EEGlab
+* Deep Learning Framework: Pytorch (Mainly used), TensorFlow.
+* Experiment: EEG and EMG collection
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+project
+=====
+
 Awards
 ======
   <ul>{% for post in site.talks reversed %}
