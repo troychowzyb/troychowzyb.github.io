@@ -42,6 +42,7 @@ Honors and Awards
 News
 ====== 
 *2024.01.16*, I became an intern of BrainCo(Shenzhen) Inc.!
+*2024.04.15*, I went back to Guangzhou, and my internship was converted to a remote
 
 Internships and Research Experience
 ====== 
