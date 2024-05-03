@@ -14,7 +14,7 @@ I'm a third year undergraduate student from [School of Biomedical Sciences and E
 
 I'm very fortunate to be advised by [Prof. Kai Wu](https://www.scholat.com/wukai) of [SCUT MINI(Medical Information and Neuroimaging) Lab](https://www.scholat.com/wukai). I'm currently an intern at [BrainCo Inc.](https://www.brainco.cn/), exploring the possibilities of ultrasound medicine.
 
-I'm currently seeking a PhD position for fall 2025 admission.
+I'm currently seeking a PhD or MPhil position for fall 2025 admission.
 You can find my resume here: [Yubin Zhou's resume](../files/YubinZhou_resume.pdf).
 
 [Email](mailto:yubinzhoubme@outlook.com)/ [Github](https://github.com/troychowzyb)/ [wechat](../images/wechat.png)
