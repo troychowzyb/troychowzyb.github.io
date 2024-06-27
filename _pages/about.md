@@ -53,7 +53,8 @@ Acknowledgment
 ====== 
 I have been fortunate to work with many talented and dedicated individuals who have generously shared their time and expertise with me. I am grateful for their support and encouragement.
 
-- [Prof. Kai Wu](https://www.scholat.com/wukai) and all member in [MINI Lab](https://www.scholat.com/wukai), [Haoquan Zhang](https://haoquanzhang.github.io/), Kaiwen Li, my roommates in 402, who support me in every aspect @South China University of Technology
+- [Prof. Kai Wu](https://www.scholat.com/wukai) and all members in [MINI Lab](https://www.scholat.com/wukai), Kaiwen Li, my roommates in 402, who support me in every aspect @South China University of Technology
+- [Haoquan Zhang](https://haoquanzhang.github.io/), my best co-worker @The Chinese University of Hong Kong
 - [Xinjie Shen](https://xinjie-shen.com/), who provided me with ai technology and mental support @Dartmouth College
 - [Shangzhe Li](https://tobyleelsz.github.io/), who provided me with ai technology and mental support @Technical University of Munich
 - [Xinqiang Wu](https://genshin.hoyoverse.com/), who provided me with math and mental support @Xiamen University
