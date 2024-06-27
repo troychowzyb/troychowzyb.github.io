@@ -22,7 +22,7 @@ You can find my resume here: [Yubin Zhou's resume](../files/YubinZhou_resume.pdf
 Interest
 ======
 - Brain-Computer Interface  
-- Focused Ultrasound-based Neuromodulation
+- Ultrasound-based Neuromodulation
 - Cognitive Neuroscience  
 - Modern Synthetic Theory of Evolution (It's my amateur interest)
 
